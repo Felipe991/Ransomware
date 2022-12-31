@@ -1,0 +1,4 @@
+if("algo" in "MAS".casefold()):
+    print("nice")
+else:
+    print("not nice")
